@@ -13,7 +13,6 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
 </p>
 
 
@@ -26,16 +25,42 @@
 
 ## ⚙️ Funcionalidades
 
-- Criar conta bancária
+# Criar conta bancária
+
 <img src="./img/1.png">
-- Listar contas bancárias
-- Atualizar os dados do usuário da conta bancária
-- Excluir uma conta bancária
-- Depósitar em uma conta bancária
-- Sacar de uma conta bancária
-- Transferir valores entre contas bancárias
-- Consultar saldo da conta bancária
-- Emitir extrato bancário
+
+# Listar contas bancárias
+
+<img src="./img/2.png">
+
+# Atualizar os dados do usuário da conta bancária
+
+<img src="./img/9.png">
+
+# Excluir uma conta bancária
+
+<img src="./img/8.png">
+
+# Depósitar em uma conta bancária
+
+<img src="./img/3.png">
+
+# Sacar de uma conta bancária
+
+<img src="./img/4.png">
+
+# Transferir valores entre contas bancárias
+
+<img src="./img/5.png">
+
+# Consultar saldo da conta bancária
+
+<img src="./img/6.png">
+
+# Emitir extrato bancário
+
+<img src="./img/7.png">
+
 ---
 
 ## 🛣️ Como executar o projeto
@@ -89,8 +114,4 @@ $ npm run dev:server
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
-
----
-
-## 🧙‍♂️ Autor
 

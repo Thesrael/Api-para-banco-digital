@@ -12,8 +12,8 @@ const criarConta = (req, res) => {
         return res.status(400).json({ mensagem: "Já existe uma conta com o CPF ou e-mail informado!" });
     }
 
-    bancoDeDados.ultimoNumeroConta++;
-    const numeroConta = String(bancoDeDados.ultimoNumeroConta);
+    bancoDeDados.ultimoNumeroDaConta++;
+    const numeroConta = String(bancoDeDados.ultimoNumeroDaConta);
 
     const novaConta = {
         numero: numeroConta,
